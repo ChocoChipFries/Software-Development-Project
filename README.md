@@ -5,7 +5,6 @@ Activity Diagram (Link : https://github.com/ChocoChipFries/Software-Development-
 In UML, an activity diagram is used to display the sequence of activities. Activity diagrams show the workflow from a start point to the finish point detailing the many decision paths that exist in the progression of events contained in the activity.
 
 Class Diagram (Link : https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Class%20Diagram.png )<br>
-
 A class diagram is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects.
 
 Component Diagram (Link : https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Component%20Diagram.png )<br>
