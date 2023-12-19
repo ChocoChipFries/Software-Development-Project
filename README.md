@@ -16,6 +16,7 @@ The aim of this project is to create a Sudoku board allowing the user to interac
 
 ### 1. Git
 Usage of git for the whole project.
+
 Commit History
 https://github.com/ChocoChipFries/Software-Development-Project/commits/main/
 
