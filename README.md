@@ -57,5 +57,9 @@ A component diagram gives a bird's-eye view of your software system. Understandi
 ### 9.Unit Tests
 
 ### 10.IDE
++ The IDE used for this project is Visual Studio Code. It is a code editor developed my Microsoft for Windows, Linux and macOS.
++ VS Code is a code editor that is compatible with multiple platforms, including Windows, macOS, and Linux, offering a uniform development experience.
++ With its syntax highlighting, autocompletion, and debugging tools, Visual Studio Code is compatible with a wide variety of programming languages, including Python, JavaScript, Java, C++, and more.
++ It provides a user friendly interface with minimalist design and powerful features.
 
 ### 11. Functional Programming
