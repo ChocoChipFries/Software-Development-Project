@@ -1,11 +1,8 @@
-The project is a Sudoku game and it is developed using python. Sudoku is a logic-based, combinatorial number-placement puzzle. In classic Sudoku, the objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 subgrids that compose the grid contains all of the digits from 1 to 9.
-The aim of this project is to create a Sudoku board allowing the user to interact and play the game with the help of a GUI.
-
 ### TABLE OF CONTENTS
-1. Git
-2. UML
-3. Requirement Engineering
-4. Analysis
+1. About
+2. Git
+3. UML
+4. Requirement Engineering
 5. DDD
 6. Metrics
 7. Clean Code Developement
@@ -14,13 +11,17 @@ The aim of this project is to create a Sudoku board allowing the user to interac
 10. IDE
 11. Functional Programming
 
-### 1. Git
+### 1. About 
+The project is a Sudoku game and it is developed using python. Sudoku is a logic-based, combinatorial number-placement puzzle. In classic Sudoku, the objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 subgrids that compose the grid contains all of the digits from 1 to 9.
+The aim of this project is to create a Sudoku board allowing the user to interact and play the game with the help of a GUI.
+
+### 2. Git
 Usage of git for the whole project.
 
 Commit History
 https://github.com/ChocoChipFries/Software-Development-Project/commits/main/
 
-### 2.UML
+### 3.UML
 
 The UML diagrams were created using Planttext.
 
@@ -33,9 +34,7 @@ A class diagram is a type of static structure diagram that describes the structu
 + Component Diagram (Link : https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Component%20Diagram.png )<br>
 A component diagram gives a bird's-eye view of your software system. Understanding the exact service behavior that each piece of your software provides will make you a better developer. Component diagrams can describe software systems that are implemented in any programming language or style.
 
-### 3.Requirement Engineering
-
-### 4.Analysis
+### 4.Requirement Engineering
 
 ### 5.DDD
 
