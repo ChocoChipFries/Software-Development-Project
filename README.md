@@ -49,3 +49,13 @@ A component diagram gives a bird's-eye view of your software system. Understandi
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
+
+### 7.Clean Code Developement
+
+### 8.Build Management
+
+### 9.Unit Tests
+
+### 10.IDE
+
+### 11. Functional Programming
