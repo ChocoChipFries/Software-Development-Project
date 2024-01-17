@@ -4,7 +4,7 @@ The aim of this project is to create a Sudoku board allowing the user to interac
 ### TABLE OF CONTENTS
 1. Git
 2. UML
-3. Requirements Engineering
+3. Requirement Engineering
 4. Analysis
 5. DDD
 6. Metrics
@@ -32,3 +32,11 @@ A class diagram is a type of static structure diagram that describes the structu
 
 + Component Diagram (Link : https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Component%20Diagram.png )<br>
 A component diagram gives a bird's-eye view of your software system. Understanding the exact service behavior that each piece of your software provides will make you a better developer. Component diagrams can describe software systems that are implemented in any programming language or style.
+
+### 3.Requirement Engineering
+
+### 4.Analysis
+
+### 5.DDD
+
+### 6.Metrices
