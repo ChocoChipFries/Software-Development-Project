@@ -21,7 +21,7 @@ Usage of git for the whole project.
 Commit History
 https://github.com/ChocoChipFries/Software-Development-Project/commits/main/
 
-### 3.UML
+### 3. UML
 
 The UML diagrams were created using Planttext.
 
@@ -34,11 +34,11 @@ A class diagram is a type of static structure diagram that describes the structu
 + Component Diagram (Link : https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Component%20Diagram.png )<br>
 A component diagram gives a bird's-eye view of your software system. Understanding the exact service behavior that each piece of your software provides will make you a better developer. Component diagrams can describe software systems that are implemented in any programming language or style.
 
-### 4.Requirement Engineering
+### 4. Requirement Engineering
 
-### 5.DDD
+### 5. DDD
 
-### 6.Metrices
+### 6. Metrices
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
@@ -49,13 +49,13 @@ A component diagram gives a bird's-eye view of your software system. Understandi
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 
-### 7.Clean Code Developement
+### 7. Clean Code Developement
 
-### 8.Build Management
+### 8. Build Management
 
-### 9.Unit Tests
+### 9. Unit Tests
 
-### 10.IDE
+### 10. IDE
 + The IDE used for this project is Visual Studio Code. It is a code editor developed my Microsoft for Windows, Linux and macOS.
 + VS Code is a code editor that is compatible with multiple platforms, including Windows, macOS, and Linux, offering a uniform development experience.
 + With its syntax highlighting, autocompletion, and debugging tools, Visual Studio Code is compatible with a wide variety of programming languages, including Python, JavaScript, Java, C++, and more.
