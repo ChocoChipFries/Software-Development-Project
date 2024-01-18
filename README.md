@@ -3,13 +3,14 @@
 2. Git
 3. UML
 4. Requirement Engineering
-5. DDD
-6. Metrics
-7. Clean Code Developement
-8. Build Management
-9. Unit Tests
-10. IDE
-11. Functional Programming
+5. Analysis
+6. DDD
+7. Metrics
+8. Clean Code Developement
+9. Build Management
+10. Unit Tests
+11. IDE
+12. Functional Programming
 
 ### 1. About 
 The project is a Sudoku game and it is developed using python. Sudoku is a logic-based, combinatorial number-placement puzzle. In classic Sudoku, the objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 subgrids that compose the grid contains all of the digits from 1 to 9.
@@ -36,9 +37,11 @@ A component diagram gives a bird's-eye view of your software system. Understandi
 
 ### 4. Requirement Engineering
 
-### 5. DDD
+### 5. Analysis
 
-### 6. Metrices
+### 6. DDD
+
+### 7. Metrices
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
@@ -49,16 +52,16 @@ A component diagram gives a bird's-eye view of your software system. Understandi
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 
-### 7. Clean Code Developement
+### 8. Clean Code Developement
 
-### 8. Build Management
+### 9. Build Management
 
-### 9. Unit Tests
+### 10. Unit Tests
 
-### 10. IDE
+### 11. IDE
 + The IDE used for this project is Visual Studio Code. It is a code editor developed my Microsoft for Windows, Linux and macOS.
 + VS Code is a code editor that is compatible with multiple platforms, including Windows, macOS, and Linux, offering a uniform development experience.
 + With its syntax highlighting, autocompletion, and debugging tools, Visual Studio Code is compatible with a wide variety of programming languages, including Python, JavaScript, Java, C++, and more.
 + It provides a user friendly interface with minimalist design and powerful features.
 
-### 11. Functional Programming
+### 12. Functional Programming
