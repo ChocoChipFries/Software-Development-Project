@@ -40,6 +40,8 @@ Two techniques were utilized to map functional and non-functional requirements: 
 
 **Trello:** https://trello.com/invite/b/vURcXrmw/ATTI8af5766178918644b5f3ad296f76592eA33B58D5/sudoku
 
+**Jira:** https://vigneshsatheesh08.atlassian.net/jira/software/projects/SUD/boards/2?atlOrigin=eyJpIjoiY2FkZTM3NGYyMTZjNDE3Njk5YTMyNmY5Y2NkMGVkMTQiLCJwIjoiaiJ9
+
 ### 5. Analysis
 
 ### 6. DDD
