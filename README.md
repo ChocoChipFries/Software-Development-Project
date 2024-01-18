@@ -36,6 +36,9 @@ A class diagram is a type of static structure diagram that describes the structu
 A component diagram gives a bird's-eye view of your software system. Understanding the exact service behavior that each piece of your software provides will make you a better developer. Component diagrams can describe software systems that are implemented in any programming language or style.
 
 ### 4. Requirement Engineering
+Two techniques were utilized to map functional and non-functional requirements: a standard variant and a professional variant.
+
+**Trello:**https://trello.com/invite/b/vURcXrmw/ATTI8af5766178918644b5f3ad296f76592eA33B58D5/sudoku
 
 ### 5. Analysis
 
