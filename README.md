@@ -1,4 +1,4 @@
-### TABLE OF CONTENTS
+### TABLE OF CONTENT
 1. About
 2. Git
 3. UML
