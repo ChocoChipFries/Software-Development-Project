@@ -97,3 +97,4 @@ Project Analysis: [Link](https://github.com/ChocoChipFries/Software-Development-
   + The use of higher-order functions
   + Functions as parameters and return values
   + Use closures / anonymous functions 
+[Functional Programming Example](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Functional%20Programming.py)
