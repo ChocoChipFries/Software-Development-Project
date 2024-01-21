@@ -67,7 +67,7 @@ Two techniques were utilized to map functional and non-functional requirements: 
 
 ### 8. Clean Code Developement
 + Clean Code Developement: [Link](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/CCD.pdf)
-+ CCD Cheatsheet: [Link]()
++ CCD Cheatsheet: [Link](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/CLEAN%20CODE%20DEVELOPMENT%20CHEATSHEET.pdf)
 
 ### 9. Build Management
 
