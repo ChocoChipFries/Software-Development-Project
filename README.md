@@ -1,4 +1,4 @@
-### TABLE OF CON
+### TABLE OF CO
 1. About
 2. Git
 3. UML
