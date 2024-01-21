@@ -74,10 +74,7 @@ Two techniques were utilized to map functional and non-functional requirements: 
 ### 10. Unit Tests
 
 ### 11. IDE
-+ The IDE used for this project is Visual Studio Code. It is a code editor developed my Microsoft for Windows, Linux and macOS.
-+ VS Code is a code editor that is compatible with multiple platforms, including Windows, macOS, and Linux, offering a uniform development experience.
-+ With its syntax highlighting, autocompletion, and debugging tools, Visual Studio Code is compatible with a wide variety of programming languages, including Python, JavaScript, Java, C++, and more.
-+ It provides a user friendly interface with minimalist design and powerful features.
++ The IDE used for this project is Visual Studio Code. 
 + Some of my favorite shortcuts that I frequently use are:
 + ``` F5``` (Debug)
 + ```Ctrl + H``` ( Replace)
