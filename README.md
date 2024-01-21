@@ -48,6 +48,10 @@ Two techniques were utilized to map functional and non-functional requirements: 
 + Event Storming Diagram
   ![Event Storming](https://github.com/ChocoChipFries/Software-Development-Project/assets/149474256/4f8f95bf-4a91-4a49-a60c-0cb36b80a087)
 
++ Core Domain Chart
+  ![Blank board - Page 1 Frame 1 (1)](https://github.com/ChocoChipFries/Software-Development-Project/assets/149474256/48877250-c7c0-4016-a8c0-ab1356773c4d)
+
+
 
 ### 7. Metrices
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
