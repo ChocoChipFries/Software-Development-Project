@@ -66,6 +66,8 @@ Two techniques were utilized to map functional and non-functional requirements: 
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 
 ### 8. Clean Code Developement
++ Clean Code Developement:
++ CCD Cheatsheet:
 
 ### 9. Build Management
 
