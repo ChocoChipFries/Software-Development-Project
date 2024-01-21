@@ -1,4 +1,4 @@
-### TABLE OF CONTE
+### TABLE OF CONT
 1. About
 2. Git
 3. UML
