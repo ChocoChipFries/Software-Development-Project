@@ -54,9 +54,6 @@ Two techniques were utilized to map functional and non-functional requirements: 
 + Domain Relation Chart
   ![Blank board - Page 1 Frame 2](https://github.com/ChocoChipFries/Software-Development-Project/assets/149474256/a1676dc2-4141-4328-b46a-82f0093304e5)
 
-
-
-
 ### 7. Metrices
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
