@@ -38,9 +38,9 @@ A component diagram gives a bird's-eye view of your software system. Understandi
 ### 4. Requirement Engineering
 Two techniques were utilized to map functional and non-functional requirements: a standard variant and a professional variant.
 
-**Trello:** https://trello.com/invite/b/vURcXrmw/ATTI8af5766178918644b5f3ad296f76592eA33B58D5/sudoku
+**Trello:** [Link](https://trello.com/invite/b/vURcXrmw/ATTI8af5766178918644b5f3ad296f76592eA33B58D5/sudoku)
 
-**Jira:** https://vigneshsatheesh08.atlassian.net/jira/software/projects/SUD/boards/2?atlOrigin=eyJpIjoiY2FkZTM3NGYyMTZjNDE3Njk5YTMyNmY5Y2NkMGVkMTQiLCJwIjoiaiJ9
+**Jira:** [Link](https://vigneshsatheesh08.atlassian.net/jira/software/projects/SUD/boards/2?atlOrigin=eyJpIjoiY2FkZTM3NGYyMTZjNDE3Njk5YTMyNmY5Y2NkMGVkMTQiLCJwIjoiaiJ9)
 
 ### 5. Analysis
 
