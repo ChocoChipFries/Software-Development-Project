@@ -91,3 +91,10 @@ Project Analysis: [Link](https://github.com/ChocoChipFries/Software-Development-
 + ``` Ctrl + F ``` (To Find in the Script)
 
 ### 12. Functional Programming
+>>Functional Programming: prove that you have covered all functional aspects in your code as:
+>> +Only final data structures
+>> +(mostly) Side-effect-free functions
+>> +The use of higher-order functions
+>> +Functions as parameters and return values
+>> +Use closures / anonymous functions
+>> +You can also do it outside of your project / code. Even in other languages such as F#, Clojure, Julia, etc. 
