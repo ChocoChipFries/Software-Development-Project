@@ -4,7 +4,7 @@
 3. UML
 4. Requirement Engineering
 5. Analysis
-6. DDD
+6. DDD - Domain Driven Design
 7. Metrics
 8. Clean Code Developement
 9. Build Management
@@ -45,6 +45,9 @@ Two techniques were utilized to map functional and non-functional requirements: 
 ### 5. Analysis
 
 ### 6. DDD
++ Event Storming Diagram
+  ![Event Storming](https://github.com/ChocoChipFries/Software-Development-Project/assets/149474256/4f8f95bf-4a91-4a49-a60c-0cb36b80a087)
+
 
 ### 7. Metrices
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
