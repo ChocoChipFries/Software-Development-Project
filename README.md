@@ -25,7 +25,6 @@ Commit History
 ### 3. UML
 
 The UML diagrams were created using Planttext.
-
 + Activity Diagram [Click here](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Activity%20Diagram.png )<br>      
 In UML, an activity diagram is used to display the sequence of activities. Activity diagrams show the workflow from a start point to the finish point detailing the many decision paths that exist in the progression of events contained in the activity.
 
