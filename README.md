@@ -20,7 +20,7 @@ The aim of this project is to create a Sudoku board allowing the user to interac
 Usage of git for the whole project.
 
 Commit History
-[History](https://github.com/ChocoChipFries/Software-Development-Project/commits/main/)
+[Click here](https://github.com/ChocoChipFries/Software-Development-Project/commits/main/)
 
 ### 3. UML
 
