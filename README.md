@@ -51,6 +51,10 @@ Two techniques were utilized to map functional and non-functional requirements: 
 + Core Domain Chart
   ![Blank board - Page 1 Frame 1 (1)](https://github.com/ChocoChipFries/Software-Development-Project/assets/149474256/48877250-c7c0-4016-a8c0-ab1356773c4d)
 
++ Domain Relation Chart
+  ![Blank board - Page 1 Frame 2](https://github.com/ChocoChipFries/Software-Development-Project/assets/149474256/a1676dc2-4141-4328-b46a-82f0093304e5)
+
+
 
 
 ### 7. Metrices
