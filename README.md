@@ -44,7 +44,7 @@ Two techniques were utilized to map functional and non-functional requirements: 
 
 ### 5. Analysis
 
-**Part A** Checklist
+**Part A** Checklist [Link](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/ANALYSIS%20CHECKLIST.pdf)
 
 ### 6. DDD
 + Event Storming Diagram
