@@ -78,5 +78,12 @@ Two techniques were utilized to map functional and non-functional requirements: 
 + VS Code is a code editor that is compatible with multiple platforms, including Windows, macOS, and Linux, offering a uniform development experience.
 + With its syntax highlighting, autocompletion, and debugging tools, Visual Studio Code is compatible with a wide variety of programming languages, including Python, JavaScript, Java, C++, and more.
 + It provides a user friendly interface with minimalist design and powerful features.
++ Some of my favorite shortcuts that I frequently use are:
++ ``` F5``` (Debug)
++ ```Ctrl + H``` ( Replace)
++ ``` Ctrl + C/ Ctrl + V``` (Copy/paste)
++ ```Shift+ Alt + Arrow UP/DOWN``` (To Copy line(s) up or down)
++ ```Ctrl + Z / Ctrl + Y``` (To Undo/Redo)
++ ``` Ctrl + F ``` (To Find in the Script)
 
 ### 12. Functional Programming
