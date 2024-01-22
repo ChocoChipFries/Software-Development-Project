@@ -81,8 +81,8 @@ Project Analysis: [Link](https://github.com/ChocoChipFries/Software-Development-
 ### 10. Unit Tests
 
 ### 11. IDE
-+ The IDE used for this project is Visual Studio Code. 
-+ Some of my favorite shortcuts that I frequently use are:
+The IDE used for this project is Visual Studio Code. 
+Some of my favorite shortcuts that I frequently use are:
 + ``` F5``` (Debug)
 + ```Ctrl + H``` ( Replace)
 + ``` Ctrl + C/ Ctrl + V``` (Copy/paste)
