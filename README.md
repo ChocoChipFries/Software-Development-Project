@@ -107,4 +107,4 @@ Some of my favorite shortcuts that I frequently use are:
   + Functions as parameters and return values
   + Use closures / anonymous functions
 
-Program[Link](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/FunqProgram.py)
+> Functional Program[Link](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/FunqProgram.py)
