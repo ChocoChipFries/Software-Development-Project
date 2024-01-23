@@ -70,6 +70,7 @@ Project Analysis: [Link](https://github.com/ChocoChipFries/Software-Development-
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 
 ### 8. Clean Code Developement
 + Clean Code Developement: [Link](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/CCD.pdf)
