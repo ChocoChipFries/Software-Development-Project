@@ -82,7 +82,8 @@ Project Analysis: [Link](https://github.com/ChocoChipFries/Software-Development-
 1. Test Number 1: [Click here](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Unit_test_1.py)
 ![Screenshot 2024-01-23 160115](https://github.com/ChocoChipFries/Software-Development-Project/assets/149474256/c528d8cb-0d5f-4a2c-8534-1009bcaf7d2e)
 
-2. Test Number 2: [Click here]()
+2. Test Number 2: [Click here](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Unit_test_2.py)
+![Screenshot 2024-01-23 161502](https://github.com/ChocoChipFries/Software-Development-Project/assets/149474256/2dc99702-d830-4595-98e7-9e32c7166863)
 
 
 ### 11. IDE
