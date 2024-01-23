@@ -68,7 +68,6 @@ Project Analysis: [Link](https://github.com/ChocoChipFries/Software-Development-
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ChocoChipFries_Software-Development-Project&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ChocoChipFries_Software-Development-Project)
 
