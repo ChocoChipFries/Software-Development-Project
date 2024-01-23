@@ -77,7 +77,8 @@ Project Analysis: [Link](https://github.com/ChocoChipFries/Software-Development-
 
 ### 9. Build Management
 The build tool used is pybuilder. I have also uploaded shortcuts of the successfull build>
-[Click here]
+[Click here](https://github.com/ChocoChipFries/Software-Development-Project/tree/main/Build%20Management)
+
 ### 10. Unit Tests
 
 1. Test Number 1: [Click here](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Unit_test_1.py)
