@@ -79,7 +79,7 @@ Project Analysis: [Link](https://github.com/ChocoChipFries/Software-Development-
 
 ### 10. Unit Tests
 
-1. Test Number 1 to Validate User Input: [Click here](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/unittest_1.py)
+1. Test Number 1: [Click here](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Unit_test_1.py)
 
 ### 11. IDE
 The IDE used for this project is Visual Studio Code. 
