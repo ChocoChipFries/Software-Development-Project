@@ -76,7 +76,8 @@ Project Analysis: [Link](https://github.com/ChocoChipFries/Software-Development-
 + CCD Cheatsheet: [Link](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/CLEAN%20CODE%20DEVELOPMENT%20CHEATSHEET.pdf)
 
 ### 9. Build Management
-
+The build tool used is pybuilder. I have also uploaded shortcuts of the successfull build>
+[Click here]
 ### 10. Unit Tests
 
 1. Test Number 1: [Click here](https://github.com/ChocoChipFries/Software-Development-Project/blob/main/Unit_test_1.py)
